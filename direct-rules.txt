@@ -1,5 +1,14 @@
 payload:
   - DOMAIN-KEYWORD,xbox  
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,xinhuanet
+  - DOMAIN-KEYWORD,localhost
+  - DOMAIN-KEYWORD,127.0.0.0
+  - DOMAIN-SUFFIX,47.95.142.33
+  - DOMAIN-SUFFIX,weiban.ink
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,wx.com
