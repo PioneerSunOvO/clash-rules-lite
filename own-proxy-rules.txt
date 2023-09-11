@@ -1,3 +1,4 @@
 payload:
   # 自定义规则
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-KEYWORD,claude
