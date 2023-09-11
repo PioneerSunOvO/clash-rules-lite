@@ -1,3 +1,0 @@
-payload:
-  # 自定义规则
-  - DOMAIN-SUFFIX,weiban.ink
