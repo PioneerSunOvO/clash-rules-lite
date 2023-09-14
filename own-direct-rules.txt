@@ -1,3 +1,4 @@
 payload:
   # 自定义规则
   - DOMAIN-SUFFIX,weiban.ink
+  - DOMAIN-SUFFIX,my.env.com
